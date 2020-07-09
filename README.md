@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Naht911/Naht911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... svpv.hptro@gmail.com
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 94% is the percentage of Internet users in Vietnam using the Internet daily.
--->
+
  
