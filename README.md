@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Levie</h1>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Naht911&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 90%" />
+
+</p>
 <table align="center" border="none">
      <tr>
           <td valign="top" width="50%">
