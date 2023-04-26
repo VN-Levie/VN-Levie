@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Levie</h1>
-<table align="center"  style="border: none">
+<table align="center" >
      <tr>
           <td valign="top" width="50%">
                <img src="https://github-readme-stats.vercel.app/api?username=Naht911&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 90%" />
