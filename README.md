@@ -9,3 +9,5 @@
 <hr>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Naht911&&style=for-the-badge&label=LEVIE%27s+VIEWS&color=70a5fd)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naht911&theme=github-dark-blue&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
