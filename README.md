@@ -5,7 +5,8 @@
 </p>
 <hr>
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naht911&theme=github-dark-blue&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=naht911&theme=github-dark-blue&date_format=%5BY.%5Dn.j" align="center"/>
+
 </p>
 <br />
 <hr>
