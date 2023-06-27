@@ -4,9 +4,9 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naht911&hide_border=true&layout=compact&theme=tokyonight" align="center" style="height: 177px; padding: 25px" />
 </p>
 <hr>
-
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naht911&theme=github-dark-blue&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
+</p>
 <br />
 <hr>
 
