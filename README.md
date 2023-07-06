@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは、Levieともうします👋</h1>
+<h1 align="center">こんにちは、Levie　ともうします👋</h1>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Naht911&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&locale=ja" align="center" style="height: 177px; padding: 25px" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naht911&hide_border=true&layout=compact&theme=tokyonight&locale=ja" align="center" style="height: 177px; padding: 25px" />
