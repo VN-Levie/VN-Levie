@@ -5,12 +5,12 @@
 </p>
 <hr>
 <p align="center">
-	[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VN-Levie&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-Levie&theme=dracula" align="center"/>
 </p>
 <hr>
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=VN-Levie&theme=github-dark-blue&date_format=%5BY.%5Dn.j&locale=ja" align="center"/>
+	
 
 </p>
 <br />
