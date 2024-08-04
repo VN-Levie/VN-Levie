@@ -5,7 +5,7 @@
 </p>
 <hr>
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-Levie&theme=tokyo-night" align="center"/>
+	[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VN-Levie&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 <hr>
