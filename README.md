@@ -6,7 +6,7 @@
 <hr>
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-Levie&theme=dracula" align="center"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-Levie&theme=tokyo-night" align="center"/>
 </p>
 <hr>
 <p align="center">
