@@ -5,6 +5,11 @@
 </p>
 <hr>
 <p align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-Levie&theme=tokyo-night" align="center"/>
+
+</p>
+<hr>
+<p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=VN-Levie&theme=github-dark-blue&date_format=%5BY.%5Dn.j&locale=ja" align="center"/>
 
 </p>
